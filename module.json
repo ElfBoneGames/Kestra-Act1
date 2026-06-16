@@ -1,0 +1,28 @@
+{
+    "id": "kestra-act1",
+    "title": "Kestra Act 1",
+    "description": "Kestra Act 1 - A Pathfinder 2nd Edition Compatible Campaign",
+    "manifest": "https://raw.githubusercontent.com/ElfBoneGames/Kestra-Act1/refs/heads/main/module.json",
+    "download": "https://github.com/ElfBoneGames/Kestra-Act1/blob/main/Releases/kestra-act1.zip",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Elf Bone Games",
+            "email": "elfbonegames@gmail.com",
+            "url": "https://elf-bone-games.itch.io/"
+        }
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "13"
+    },
+    "packs": [
+        {
+      "label": "Kestra Act 1 Adventure",
+      "type": "Adventure",
+      "name": "Kestra Act 1 Adventure",
+      "path": "packs/kestraact1adventure",
+      "system": "pf2e"
+    	   }    
+    ]
+}
